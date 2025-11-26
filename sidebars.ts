@@ -21,6 +21,7 @@ const sidebars: SidebarsConfig = {
       label: 'Part 1: The Paradigm Shift',
       items: [
         'chapter-1',
+        'chapter-2',
       ],
     },
     {
