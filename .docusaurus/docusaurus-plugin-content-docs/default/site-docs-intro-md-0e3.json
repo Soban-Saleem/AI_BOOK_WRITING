@@ -1,0 +1,23 @@
+{
+  "id": "intro",
+  "title": "Tutorial Intro",
+  "description": "Let's discover Docusaurus in less than 5 minutes.",
+  "source": "@site/docs/intro.md",
+  "sourceDirName": ".",
+  "slug": "/intro",
+  "permalink": "/AI_BOOK_WRITING/docs/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Soban-Saleem/AI_BOOK_WRITING/tree/main/docs/intro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "bookSidebar",
+  "next": {
+    "title": "Chapter 1: Beyond the Word Processor",
+    "permalink": "/AI_BOOK_WRITING/docs/chapter-1"
+  }
+}

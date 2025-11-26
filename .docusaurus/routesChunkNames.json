@@ -1,0 +1,38 @@
+{
+  "/AI_BOOK_WRITING/docs-456": {
+    "__comp": "5e95c892",
+    "__context": {
+      "plugin": "aba21aa0"
+    }
+  },
+  "/AI_BOOK_WRITING/docs-635": {
+    "__comp": "a7bd4aaa",
+    "__props": "7352d3e6"
+  },
+  "/AI_BOOK_WRITING/docs-36a": {
+    "__comp": "a94703ab"
+  },
+  "/AI_BOOK_WRITING/docs/chapter-1-af9": {
+    "__comp": "17896441",
+    "content": "5d4163c4"
+  },
+  "/AI_BOOK_WRITING/docs/intro-c34": {
+    "__comp": "17896441",
+    "content": "0e384e19"
+  },
+  "/AI_BOOK_WRITING/docs/placeholder-48c": {
+    "__comp": "17896441",
+    "content": "5d9411d3"
+  },
+  "/AI_BOOK_WRITING/docs/table-of-contents-4d6": {
+    "__comp": "17896441",
+    "content": "fd597116"
+  },
+  "/AI_BOOK_WRITING/-5be": {
+    "__comp": "1df93b7f",
+    "__context": {
+      "plugin": "a7456010"
+    },
+    "config": "5e9f5e1a"
+  }
+}

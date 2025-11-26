@@ -1,0 +1,15 @@
+{
+  "id": "table-of-contents",
+  "title": "Table of Contents",
+  "description": "Part 1: The Paradigm Shift",
+  "source": "@site/docs/table-of-contents.md",
+  "sourceDirName": ".",
+  "slug": "/table-of-contents",
+  "permalink": "/AI_BOOK_WRITING/docs/table-of-contents",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Soban-Saleem/AI_BOOK_WRITING/tree/main/docs/table-of-contents.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}
